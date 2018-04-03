@@ -1,5 +1,5 @@
 # Mohamed Salah WWDC17-Scholarship-Submission
-Solar System Playground [Accepted]
+Solar System Playground [Accepted].  
 This Playground shows you some information about solar system planets using 3d models.
 
 ![screenshot1](screenshot1.png)
